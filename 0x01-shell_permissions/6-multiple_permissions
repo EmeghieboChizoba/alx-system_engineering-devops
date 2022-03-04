@@ -1,0 +1,1 @@
+-m #!/bin/bash\nchmod ug+x,o+r hello
